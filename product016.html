@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en"><!-- InstanceBegin template="/Templates/productPage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- InstanceBeginEditable name="doctitle" -->
+		<title>Product Page</title>
+		<!-- InstanceEndEditable -->
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<!-- InstanceBeginEditable name="head" -->
+		<!-- InstanceEndEditable -->
+</head>
+<body>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script>
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header"> <a class="navbar-brand" href="#">EFY</a> </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="index.html">Home</a></li>
+      <li><a href="productPage.html">Product Page</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Forms -->
+<form action = "cart.php" method="post">
+  <!-- Triggers Adding Function -->
+  <input type="hidden" name="Desired_Action" value="Adding">
+  <!-- Item Information to Send -->
+  <!-- InstanceBeginEditable name="Item Description" -->
+  <input type="hidden" name="code" value="16">
+  <input type="hidden" name="name" value="HP High Performance Laptop PC">
+  <input type="hidden" name="price" value="372.94">
+  <input type="hidden" name="description" value="15.6-inch HD+ Display Intel Pentium Quad-Core Processor 8GB RAM 500GB HDD WIFI DVD HDMI Bluetooth Windows 10">
+  <!-- InstanceEndEditable -->
+  <div class="container">
+  <!-- Jumbotron -->
+    <div class="jumbotron"><!-- InstanceBeginEditable name="Product Name" -->
+			  <h1>HP High Performance Laptop PC</h1>
+			<!-- InstanceEndEditable --></div>
+    <div class="row">
+      <div class="col-sm-4"> <!-- InstanceBeginEditable name="Product Image" --><img class="img-responsive" src="images/product16.jpg" alt="productimg"><!-- InstanceEndEditable --> </div>
+      <div class="col-sm-4">
+        <h3 class="text-left">Product Description</h3>
+        <!-- InstanceBeginEditable name="Product Description" -->
+					<p class="text-info">15.6-inch HD+ Display Intel Pentium Quad-Core Processor 8GB RAM 500GB HDD WIFI DVD HDMI Bluetooth Windows 10</p>
+					<!-- InstanceEndEditable --></div>
+      <div class="col-sm-4"><!-- InstanceBeginEditable name="Product Cost" -->
+				  <h3 class="text-danger text-right">$372.94</h3>
+				<!-- InstanceEndEditable -->
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">
+            2 Year Laptop Accident Protection</label>
+          <span class="text-danger">$204.99</span> </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">
+            3 Year Laptop Accident Protection</label>
+          <span class="text-danger">$159.99</span> </div>
+        <div class="dropdown">
+          <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">More Warranty Options <span class="caret"></span></button>
+          <ul class="dropdown-menu">
+            <input type="checkbox" value="">
+            1 Year Laptop Accident Protection<span class="text-danger"> $89.99</span> <br>
+            <input type="checkbox" value="">
+            3 Data Recovery for Notebooks<span class="text-danger"> $14.99</span>
+          </ul>
+        </div>
+        <br>
+        <!-- Quantity For Product -->
+        <div class="spinner"> Qty:
+          <select name="quantity">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+          <input type="submit" name="add to cart button" class="btn btn-info btn btn-warning btn pull-right" role="button" id="add to cart button" value="ADD TO CART" />
+          </div>
+      </div>
+    </div>
+    <br>
+    <div class="panel panel-info">
+      <!-- Extra Information To Fill Space -->
+      <div class="panel-heading">Warranty, Returns, And Additional Information</div>
+      <div class="panel-body">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Warranty</th>
+              <th>Returns</th>
+              <th>Contact Info</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="info">
+              <td>Limited Warranty period (parts): 1 year</td>
+              <td>Return for refund within: 30 days</td>
+              <td>http://www.asus.com/</td>
+            </tr>
+            <tr class="info">
+              <td>Limited Warranty period (labor): 1 year</td>
+              <td>Return for replacement within: 30 days</td>
+              <td>1-510-739-3777</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</form>
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Cart Page</title>
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.css" rel="stylesheet">
+  </head>
+	
+	<body>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+		<script src="js/jquery-1.11.3.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed --> 
+		<script src="js/bootstrap.js"></script>
+		
+		<div class="jumbotron text-center">
+			<h1>Your Shopping Bag</h1>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<table class="table table-bordered">
+						<thead>
+							<tr>
+								<th>Item</th>
+								<th>Details</th>
+        						<th>Cost</th>
+        						<th>Actions</th>
+							</tr>
+						</thead>
+						<tbody>    
+							<tr class="info">
+								<td><h5 class="text-center"><strong>Lenovo Miix 510</strong></h5>								  <img class="img-responsive img-thumbnail" src="images/product1.jpg" alt="productimg"></td>
+								<td>12.2-Inch Windows Laptop, 2 in 1 Laptop, (Intel Core i5, 2.5 GHz, 8 GB DDR4, 128 GB M.2 PCIe SSD, Windows 10 Home), Platinum, 80XE00H3US</td>
+								<td>$899.99</td>
+								<td>
+									<button type="button" class="btn btn-primary btn-xs btn btn-warning">Edit</button>
+									<br><br>	
+									<button type="button" class="btn btn-primary btn-xs btn btn-danger">Delete</button>
+								</td>
+							</tr>
+							<tr class="info">
+								<td><h5 class="text-center"><strong>Razer Blade Stealth</strong></h5>								  <img class="img-responsive" src="images/product24.jpg" alt="productimg"></td>
+								<td>13.3" QHD+ Touchscreen Ultrabook (7th Generation Intel Core i7, 16GB RAM, 256GB SSD) - Gunmetal Grey</td>
+								<td>$1,399.99</td>
+								<td>
+									<button type="button" class="btn btn-primary btn-xs btn btn-warning">Edit</button>
+									<br><br>
+									<button type="button" class="btn btn-primary btn-xs btn btn-danger">Delete</button>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<a href="#" class="btn btn-success btn pull-right" role="button">Checkout</a>
+					<a href="#" class="btn btn-success btn pull-left" role="button">Apply Coupon</a>
+					
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>

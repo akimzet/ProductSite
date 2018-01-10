@@ -1,0 +1,25 @@
+Product 1: https://www.amazon.com/Lenovo-12-2-Inch-Windows-Platinum-80XE00H3US/dp/B073WCTLTQ/ref=sr_1_1_sspa?s=pc&ie=UTF8&qid=1506893871&sr=1-1-spons&keywords=laptop&psc=1
+Product 2: https://www.amazon.com/Dell-Laptop-Latitude-E7250-Windows/dp/B012PTEA0O/ref=sr_1_2_sspa?s=pc&ie=UTF8&qid=1506893871&sr=1-2-spons&keywords=laptop&psc=1
+Product 3: https://www.amazon.com/Acer-E5-575-33BM-15-6-Inch-Notebook-Generation/dp/B01K1IO3QW/ref=sr_1_4?s=pc&ie=UTF8&qid=1506893871&sr=1-4&keywords=laptop
+Product 4: https://www.amazon.com/HP-Backlit-Display-A6-7310-Quad-Core/dp/B01NBE6Y5D/ref=sr_1_6?s=pc&ie=UTF8&qid=1506893871&sr=1-6&keywords=laptop
+Product 5: https://www.amazon.com/HP-Stream-14-ax010nr-Celeron-Personal/dp/B01JLCKP34/ref=sr_1_7?s=pc&ie=UTF8&qid=1506893871&sr=1-7&keywords=laptop
+Product 6: https://www.amazon.com/Premium-Business-Flagship-Celeron-Core-Processor/dp/B075825JP8/ref=sr_1_8?s=pc&ie=UTF8&qid=1506893871&sr=1-8&keywords=laptop
+Product 7: https://www.amazon.com/Samsung-Chromebook-XE500C13-K01US-Certified-Refurbished/dp/B01MFA97NP/ref=sr_1_9?s=pc&ie=UTF8&qid=1506893871&sr=1-9&keywords=laptop
+Product 8: https://www.amazon.com/Lenovo-15-6-Inch-Performance-Dual-Core-Processor/dp/B06ZYS5N47/ref=sr_1_10?s=pc&ie=UTF8&qid=1506893871&sr=1-10&keywords=laptop
+Product 9: https://www.amazon.com/Lenovo-IdeaPad-17-3-Bluetooth-Fingerprint/dp/B075MQR55B/ref=sr_1_11?s=pc&ie=UTF8&qid=1506893871&sr=1-11&keywords=laptop
+Product 10:https://www.amazon.com/HP-Flagship-Performance-i7-7500U-Dual-Core/dp/B06ZZMBYJ6/ref=sr_1_12?s=pc&ie=UTF8&qid=1506893871&sr=1-12&keywords=laptop
+Product 11:https://www.amazon.com/HP-Performance-Generation-Dual-Core-Refurbished/dp/B0746CFXHH/ref=sr_1_13?s=pc&ie=UTF8&qid=1506893871&sr=1-13&keywords=laptop
+Product 12:https://www.amazon.com/Lenovo-Premium-Performance-Processor-Bluetooth/dp/B01MQHADBT/ref=sr_1_14?s=pc&ie=UTF8&qid=1506893871&sr=1-14&keywords=laptop
+Product 13:https://www.amazon.com/HP-performance-WLED-backlit-i5-7200U-Processor/dp/B072FRYB5X/ref=sr_1_15?s=pc&ie=UTF8&qid=1506893871&sr=1-15&keywords=laptop
+Product 14:https://www.amazon.com/HP-Performance-A6-7310-Ethernet-Windows/dp/B0728KV94P/ref=sr_1_16?s=pc&ie=UTF8&qid=1506893871&sr=1-16&keywords=laptop
+Product 15:https://www.amazon.com/HP-Pavilion-15-6-Inch-Touchscreen-Performance/dp/B071DTR3Y6/ref=sr_1_17?s=pc&ie=UTF8&qid=1506893871&sr=1-17&keywords=laptop
+Product 16:https://www.amazon.com/HP-Performance-15-6-inch-Quad-Core-Processor/dp/B0716X12M4/ref=sr_1_18?s=pc&ie=UTF8&qid=1506893871&sr=1-18&keywords=laptop
+Product 17:https://www.amazon.com/Acer-Chromebook-Convertible-11-6-Inch-CB5-132T-C1LK/dp/B01J42JPJG/ref=sr_1_19?s=pc&ie=UTF8&qid=1506893871&sr=1-19&keywords=laptop
+Product 18:https://www.amazon.com/HP-i5-7200U-Dual-Core-802-11b-speakers/dp/B0716T4F1K/ref=sr_1_20?s=pc&ie=UTF8&qid=1506893871&sr=1-20&keywords=laptop
+Product 19:https://www.amazon.com/Lenovo-Performance-Dual-Core-Processor-Bluetooth/dp/B0735Q4X1Y/ref=sr_1_21?s=pc&ie=UTF8&qid=1506893871&sr=1-21&keywords=laptop
+Product 20:https://www.amazon.com/Samsung-Chromebook-11-6-16GB-XE500C13-K04US/dp/B01N5P6TJW/ref=sr_1_22?s=pc&ie=UTF8&qid=1506893871&sr=1-22&keywords=laptop
+Product 21:https://www.amazon.com/Lenovo-14-Backlight-Processor-Personal/dp/B071W37M1L/ref=sr_1_23?s=pc&ie=UTF8&qid=1506893871&sr=1-23&keywords=laptop
+Product 22:https://www.amazon.com/HP-WLED-Backlit-Touchscreen-Bluetooth-Refurbished/dp/B074XDNXM5/ref=sr_1_24?s=pc&ie=UTF8&qid=1506893871&sr=1-24&keywords=laptop
+Product 23:https://www.amazon.com/HP-Premium-Performance-i7-7500U-Processor/dp/B0718XQ6YN/ref=sr_1_25?s=pc&ie=UTF8&qid=1506893871&sr=1-25&keywords=laptop
+Product 24:https://www.amazon.com/HIDevolution-SLI-212-Diamond-Compound-i7-7920HQ/dp/B06XTLBKMT/ref=sr_1_2?s=pc&ie=UTF8&qid=1506894585&sr=1-2&keywords=laptop&refinements=p_72%3A1248879011
+Product 25:https://www.amazon.com/MSI-GT73VR-Titan-Premium-17-3/dp/B06XD3QQF1/ref=sr_1_15?s=pc&ie=UTF8&qid=1506894585&sr=1-15&keywords=laptop&refinements=p_72%3A1248879011
